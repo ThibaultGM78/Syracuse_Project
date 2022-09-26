@@ -1,0 +1,4 @@
+              MAX MIN AVERAGE
+altimax       1742,15 16 9232
+dureevol      33,8571 4 118
+dureealtitude 16,6813 0 95
